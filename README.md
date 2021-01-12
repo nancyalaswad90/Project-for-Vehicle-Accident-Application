@@ -2,20 +2,36 @@
 
 
 
+
 # Gain knowledge as a Java developer.
 
 
+
+
+
 - [Java (Basic) Skills Certification Test](https://www.hackerrank.com/skills-verification/java_basic)
+
 
 
 Take the HackerRank Skills Certification Test and showcase your knowledge as a HackerRank verified developer.
 
 
 
+- [Java Tutorial in w3schools(https://www.w3schools.com/java/)
+
+
+
+Where i understand how Java is used to develop mobile apps, web apps, desktop apps, games and much more.
 
 
 
 
+
+
+
+
+
+-----------------------------------
 
 # Project for Vehicle Accident Application
  
