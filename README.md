@@ -43,20 +43,32 @@ Earning Java Cloud certification helps you achieve more, faster, with fewer reso
 
 
 
+- [Udemy Java programming language ](https://www.udemy.com/share/101qZMAkYdcV5QTXo=/)
+
+
+
+Learn to program using the Java programming language with Lectures: 74 ,Video: 16 total hours
+
+
+
+
+
 
 -----------------------------------
 
-.
 
-.
 
-# Project for Vehicle Accident Application
+
+# For Practice my knowledge I apply the Project for Vehicle Accident Application as required of passing study material in my university
  
  
  > 18/12/2020
+ 
 
 
 ## Overview
+
+
 
 Nowadays, road safety research provides an important support for the transport policy. This type of research is concerned with meeting road casualty reduction targets in a country. In order to meet this primary objective, research is commissioned to analyze and understand various vehicle accident types and the factors influencing it. The most common types of accidents are single vehicle collisions, rear-end collisions, head-on collisions, and side impact accidents. Therefore, there has been an increasing demand for more up to date information on reported traffic accidents to be made available to researchers. As a result, in many countries, a department for transport (DfT) is responsible for collecting and publishing traffic accidents data. 
 
