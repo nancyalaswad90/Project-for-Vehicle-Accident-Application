@@ -54,15 +54,21 @@ Learn to program using the Java programming language with Lectures: 74 ,Video: 1
 
 
 
------------------------------------
+.
 
 
 
 
-# For Practice my knowledge I apply the Project for Vehicle Accident Application as required of passing study material in my university
+### Now For Practice my knowledge I apply the below project as required of passing study material in my university.
+
+
+
+> Project for Vehicle Accident Application
  
  
- > 18/12/2020
+ 
+ 
+**18/12/2020**
  
 
 
