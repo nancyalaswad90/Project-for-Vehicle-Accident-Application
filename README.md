@@ -28,12 +28,20 @@ Where i understand how Java is used to develop mobile apps, web apps, desktop ap
 
 
 
+- [Oracle Java Training and Certification](https://education.oracle.com/oracle-certification-path/pFamily_48)
 
+
+
+Earning Java Cloud certification helps you achieve more, faster, with fewer resources, empowers you with the skills and gives you an edge.
 
 
 
 
 -----------------------------------
+
+.
+
+.
 
 # Project for Vehicle Accident Application
  
