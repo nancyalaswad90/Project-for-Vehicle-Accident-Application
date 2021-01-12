@@ -9,7 +9,7 @@
 
 
 
-- [Java (Basic) Skills Certification Test](https://www.hackerrank.com/skills-verification/java_basic)
+- [HackerRank Certification for Java Skills Certification Test](https://www.hackerrank.com/skills-verification/java_basic)
 
 
 
@@ -19,7 +19,7 @@ Take the HackerRank Skills Certification Test and showcase your knowledge as a H
 
 
 
-- [Java Tutorial in w3schools](https://www.w3schools.com/java/)
+- [w3schools for Java Tutorial](https://www.w3schools.com/java/)
 
 
 
@@ -28,7 +28,7 @@ Where i understand how Java is used to develop mobile apps, web apps, desktop ap
 
 
 
-- [Oracle Java Training and Certification](https://education.oracle.com/oracle-certification-path/pFamily_48)
+- [Oracle Java Certification](https://education.oracle.com/oracle-certification-path/pFamily_48)
 
 
 
