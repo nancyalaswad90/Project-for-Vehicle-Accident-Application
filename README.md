@@ -1,5 +1,22 @@
 
 
+
+
+# Gain knowledge as a Java developer.
+
+
+- [Java (Basic) Skills Certification Test](https://www.hackerrank.com/skills-verification/java_basic)
+
+
+Take the HackerRank Skills Certification Test and showcase your knowledge as a HackerRank verified developer.
+
+
+
+
+
+
+
+
 # Project for Vehicle Accident Application
  
  
