@@ -73,7 +73,7 @@ Learn to program using the Java programming language with Lectures: 74 ,Video: 1
 
 
 
-# * Now For Practice my knowledge I apply the below project as required of passing study material in my university.... (( In Progress )) 
+> # Now For Practice my knowledge I apply the below project as required of passing study material in my university.... (( In Progress )) 
 
 
 
@@ -90,7 +90,7 @@ Learn to program using the Java programming language with Lectures: 74 ,Video: 1
 
 
 
-> # Project for Vehicle Accident Application
+## Project for Vehicle Accident Application
  
  
  
@@ -103,6 +103,8 @@ Learn to program using the Java programming language with Lectures: 74 ,Video: 1
  
 **18/12/2020**
  
+
+
 
 
 ## Overview
