@@ -73,7 +73,7 @@ Learn to program using the Java programming language with Lectures: 74 ,Video: 1
 
 
 
-> # 💡.Now For Practice my knowledge I apply the below project as required of passing study material in my university....In Progress 😊
+> # 💡.Now For Practice the knowledge gained from programs above , I applied the below project as required of passing study material in my university....( In Progress 😊) 
 
 
 
