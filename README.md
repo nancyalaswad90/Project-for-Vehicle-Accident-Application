@@ -72,7 +72,9 @@ This tutorial is a quick starter of Eclipse.
 
 
 
- - [JAVA Quick Refresh ](https://www.javatpoint.com/java-tutorial)
+ - [JAVA Quick Refresh 1](https://www.javatpoint.com/java-tutorial)
+ 
+  - [JAVA Quick Refresh 2](https://hackr.io/blog/java-cheat-sheet)
 
 
 - [JAVA Quick Refresh - Sheets](https://introcs.cs.princeton.edu/java/11cheatsheet/)
