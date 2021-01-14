@@ -55,11 +55,14 @@ Learn to program using the Java programming language with Lectures: 74 ,Video: 1
 
 
 
+.
 
 
 
 
-> ## eclipse IDE
+
+> ## Working with `eclipse IDE`
+
 
 
 [This tutorial is a quick starter of Eclipse.](https://www.tutorialspoint.com/eclipse/index.htm)
@@ -74,6 +77,8 @@ This tutorial is a quick starter of Eclipse.
 
  - [JAVA Quick Refresh 1](https://www.javatpoint.com/java-tutorial)
  
+ 
+ 
   - [JAVA Quick Refresh 2](https://hackr.io/blog/java-cheat-sheet)
 
 
@@ -82,16 +87,26 @@ This tutorial is a quick starter of Eclipse.
 
 
 
+.
+
+
 
 
 > ## Textbook (Liang 11 Edition)
 
 
 
-Introduction to Java Programming and Data Structures, Comprehensive Version, Global Edition, 11th Edition
+
+- **Introduction to Java Programming and Data Structures, Comprehensive Version, Global Edition, 11th Edition**
+
 
 Click https://www.pearson.com/uk/educators/higher-education-educators/program/Liang-Introduction-to-Java-Programming-and-Data-Structures-Comprehensive-Version-Global-Edition-11th-Edition/PGM1898285.html link to buy your own copy and make it your resource.
 
+
+
+
+
+.
 
 
 
