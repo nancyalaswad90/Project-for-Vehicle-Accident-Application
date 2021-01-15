@@ -68,9 +68,11 @@ Learn to program using the Java programming language with Lectures: 74 ,Video: 1
 [This tutorial is a quick starter of Eclipse.](https://www.tutorialspoint.com/eclipse/index.htm)
 
 
+
+
 The best way to learn programming is by doing examples and solve problems.
 The eclipse IDE will make this a nice experience and FUN.
-This tutorial is a quick starter of Eclipse.
+[This tutorial is a quick starter of Eclipse.](https://www.tutorialspoint.com/eclipse/eclipse_installation.htm)
 
 
 
