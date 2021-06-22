@@ -55,9 +55,12 @@ Learn to program using the Java programming language with Lectures: 74 ,Video: 1
 
 
 
+
+- An interactive and [free JavaScript course based on FreeCodeCamp's curriculum](https://scrimba.com/learn/learnjavascript)
+
+
+
 .
-
-
 
 
 
